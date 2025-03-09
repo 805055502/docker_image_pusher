@@ -1,1 +1,1 @@
-garethflowers/svn-server
+gitlab/gitlab-ce
