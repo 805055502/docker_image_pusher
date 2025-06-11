@@ -1,1 +1,2 @@
-bitnami/kafka
+elasticsearch:9.0.0
+kibana:9.0.0
