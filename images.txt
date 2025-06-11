@@ -1,2 +1,2 @@
-elasticsearch
-kibana
+elasticsearch:9.0.2
+kibana:9.0.2
