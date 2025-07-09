@@ -1,1 +1,1 @@
-openjdk:21
+hyperf/hyperf:8.1-alpine-v3.17-swoole-slim
